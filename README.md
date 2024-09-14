@@ -43,7 +43,9 @@ PayPark is a smart parking management system designed to address urban traffic c
 - **Chetan Jain** - Department of Electronics and Telecommunication Engineering, VIT Pune
 - **Sanskruti Chopade** - Department of Electronics and Telecommunication Engineering, VIT Pune
 - **Ameya Date** - Department of Electronics and Telecommunication Engineering, VIT Pune
-- **Prof. Mrunal Shidore** - Department of Electronics and Telecommunication Engineering, VIT Pune
+
+## Project Guide
+- **Prof. Mrunal Shidore** - Assistant Professor, Department of Electronics and Telecommunication Engineering, VIT Pune
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
