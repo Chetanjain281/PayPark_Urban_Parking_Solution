@@ -39,6 +39,9 @@ PayPark is a smart parking management system designed to address urban traffic c
 - **Payments**: Razorpay UPI Integration
 - **Hardware**: Arduino, NodeMCU, RFID Readers
 
+## See the demo
+[![Watch the video](https://img.youtube.com/vi/r1jezVhJUbQ/0.jpg)](https://youtu.be/r1jezVhJUbQ)
+
 ## Contributors
 - **Chetan Jain** - Department of Electronics and Telecommunication Engineering, VIT Pune
 - **Sanskruti Chopade** - Department of Electronics and Telecommunication Engineering, VIT Pune
