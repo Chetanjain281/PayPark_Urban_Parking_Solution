@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953912912319",
+    "project_id": "firstapp-7c9a7",
+    "storage_bucket": "firstapp-7c9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953912912319:android:a9984d54b91a20588c990a",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukKHadGJrBOn61mNZcao0UwJOPtIOk6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
